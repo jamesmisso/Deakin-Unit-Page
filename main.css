@@ -51,3 +51,7 @@ a:hover {
 .content{
   padding: 10px; 
 }
+div {
+    background-color: darkcyan;
+    text-align: right;
+}
